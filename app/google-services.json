@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539343714679",
+    "project_id": "dami-kitz",
+    "storage_bucket": "dami-kitz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539343714679:android:0f6c756a81eb65adaf4972",
+        "android_client_info": {
+          "package_name": "edu.utap.DamiKitz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDikYgKfIrMQ_bAhwNeIPvY4Ga2fr17PH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539343714679:android:a683cade2197ab47af4972",
+        "android_client_info": {
+          "package_name": "edu.utap.damikitz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDikYgKfIrMQ_bAhwNeIPvY4Ga2fr17PH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

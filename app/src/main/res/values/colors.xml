@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorGreen">#167B00</color>
+    <color name="colorLightGreen">#1D9B01</color>
+
+    <color name="colorText">#2D2D2D</color>
+    <color name="colorTextSecondary">#828282</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorSnackBarError">#FF0000</color>
+    <color name="colorBackground">#F1F1F1</color>
+    <color name="colorBorder">#E8E6E6</color>
+</resources>
